@@ -6,7 +6,7 @@
 
 ## Requirements
 
-This template project uses:
+This project uses:
 
 - [Next.js 14](https://nextjs.org/)
 - [React 18](https://reactjs.org/)
